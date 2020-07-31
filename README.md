@@ -1,5 +1,5 @@
 # first_Game
-this is a simple game that i make and my first attemp at game developpement
+This is a simple game that i make with the Pixelbox gameEngine it is my first attemp at game dev i hope you like it
 
-# the gamme is in the index.html file
-and the source code is the file main.js in the src folder
+# Goal you
+You have to eat the carrot unfortunetly you have to be exactly on the carrot to be able to eat it.
