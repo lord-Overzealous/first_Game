@@ -1,5 +1,10 @@
-# first_Game
-This is a simple game that i make with the Pixelbox gameEngine it is my first attemp at game dev i hope you like it
+# first game
+This repositery is a my first attempt at game developpement
 
-# the Goal
-You have to eat the carrot unfortunetly you have to be exactly on the carrot to be able to eat it.
+# About the game
+The goal of the game is to collect food that pop out randomly on the floor.
+You need to be exactly where the food is to be able to eat it and if you do eat the food you gain a point.
+To help you to be exactly where the food is you'r emplacement and the emplacement of the food is given.
+
+The game was made with a JS game engine/framework named pixelbox that waas developped by cstoquer
+link of the documentation: https://github.com/cstoquer/pixelbox
