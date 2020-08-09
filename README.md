@@ -8,3 +8,7 @@ To help you to be exactly where the food is you'r emplacement and the emplacemen
 
 The game was made with a JS game engine/framework named pixelbox that waas developped by cstoquer
 link of the documentation: https://github.com/cstoquer/pixelbox
+
+# to play the game
+1. find the index.html file and open it in a browser
+1. if you whant you can change the code by going in the
