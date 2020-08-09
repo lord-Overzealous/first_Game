@@ -13,4 +13,5 @@ link of the documentation: https://github.com/cstoquer/pixelbox
 1. find the index.html file and open it in a browser
 1. if you whant you can change the code by going in the src folder and all the code of the game is in the main.js file
 1. Improve the game as you whant
-  1.> Do not judge me that much I know my code is not that good
+
+> Do not judge me that much I know my code is not that good
