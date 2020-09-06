@@ -1,5 +1,5 @@
 # first game
-This repositery is a my first attempt at game developpement
+first Game is my first attempt at game developpement. It is pretty basic but i learned a lot while doing it.
 
 # About the game
 The goal of the game is to collect food that pop out randomly on the floor.
@@ -13,5 +13,3 @@ link of the documentation: https://github.com/cstoquer/pixelbox
 1. find the index.html file and open it in a browser
 1. if you whant you can change the code by going in the src folder and all the code of the game is in the main.js file
 1. Improve the game as you whant
-
-> Do not judge me that much I know my code is not that good
