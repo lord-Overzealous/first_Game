@@ -15,4 +15,4 @@ link of the documentation: https://github.com/cstoquer/pixelbox
 1. Improve the game as you whant
 
 
-#### !!!this project is currently on hold!!!
+#### !!! this project is currently on hold !!!
