@@ -14,5 +14,5 @@ link of the documentation: https://github.com/cstoquer/pixelbox
 1. if you whant you can change the code by going in the src folder and all the code of the game is in the main.js file
 1. Improve the game as you whant
 
-# !!! Important !!!
-# this project is currently on hold
+
+#### !!!this project is currently on hold!!!
