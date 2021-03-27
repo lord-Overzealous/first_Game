@@ -1,6 +1,8 @@
 # first game
 first Game is my first attempt at game developpement. It is pretty basic but i learned a lot while doing it.
 
+![](https://github.com/quantumporium/first_Game/blob/master/img/Screenshot%202021-03-27%20at%2016.02.43.png)
+
 # About the game
 The goal of the game is to collect food that pop out randomly on the floor.
 You need to be exactly where the food is to be able to eat it and if you do eat the food you gain a point.
