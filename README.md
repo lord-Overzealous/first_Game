@@ -14,5 +14,7 @@ link of the documentation: https://github.com/cstoquer/pixelbox
 1. if you whant you can change the code by going in the src folder and all the code of the game is in the main.js file
 1. Improve the game as you whant
 
+__Or you can go to [this website](https://quantumporium.github.io/first_Game/)__ 
+
 
 <h4 align = 'center'> :no_entry_sign: This project is currently on hold :no_entry_sign: </h4>
